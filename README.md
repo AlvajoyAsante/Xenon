@@ -2,16 +2,24 @@
 
 ![](https://i.imgur.com/EpBZxrG.png)
 
-![](https://img.shields.io/badge/Release-BETA-green) ![](https://img.shields.io/github/issues/Overload02/Xenon-CL)
+![](https://img.shields.io/badge/Release-BETA-green) ![](https://img.shields.io/github/issues/Overload02/Xenon)
 
 ### Features
 
-- Simple Commands, less than 10 commands.
-- Oxygen, Xenons grapical libary for C programming.
-- Exucute Programs, Xenon CL is able to excute any program that has been installed onto it.
-- Costumizable Text and Background, Able to change text color and background color.
-- Small and compact, Very small size so there is more space to install more programs.
-- Command Bank Importing, Allows users to add/install commands into main command bank. 
+- Running Assembly & Basic Programs
+- Terminal and Graphical Interface
+- Password Lock / Customizable Username
+- Developer Options
+- Deleting Programs and Creating New Programs
+- Battery indicator and Clock
+- Customizable colors / Backgrounds
+- Auto Exit (based on inactivity)
+- Menu / Menu Pinning
+- File System
+- Folder System
+- Graphical C Library (oxygen.h)
+- Notification System
+- ...
 
 ------------
 
