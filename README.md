@@ -21,8 +21,7 @@
 - Notification System
 - ...
 
-
-[========]
+#### **Concept Images**:
 
 ![](https://i.imgur.com/DITWbGp.png)![](https://i.imgur.com/2nec4dy.gif)
 
