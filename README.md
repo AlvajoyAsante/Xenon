@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/EpBZxrG.png)
 
-![](https://img.shields.io/badge/Release-BETA-green) ![](https://img.shields.io/github/issues/Overload02/Xenon)
+![](https://img.shields.io/github/release/Overload02/Xenon) ![](https://img.shields.io/github/issues/Overload02/Xenon)
 
 ### Features
 
