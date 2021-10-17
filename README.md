@@ -26,10 +26,12 @@
 
 ## Concept Images
 
-![](https://i.imgur.com/oaYGhrF.png) ![](https://i.imgur.com/xMw7oZc.png) ![](https://i.imgur.com/Tnckq2j.png) ![](https://i.imgur.com/9OI9EAZ.png)
+![](https://i.imgur.com/oaYGhrF.png) ![](https://i.imgur.com/xMw7oZc.png) 
+![](https://i.imgur.com/Tnckq2j.png) ![](https://i.imgur.com/9OI9EAZ.png)
 
 ## Development
 ![](https://i.imgur.com/wXRc4y9.png) ![](https://i.imgur.com/PAfJaHR.png)
+
 *Keep up to date on the recent development by checking out the [New Discord Server](https://discord.gg/xyUZgnD4UJ "New Discord Server") or on [Cemetech Forums](https://www.cemetech.net/forum/viewtopic.php?t=15070 "Cemetech Forums"). You Can Also View The [Trello Board](https://trello.com/b/eYALDr4Q/xenon-development-c "Trello Board") For more information about the development.*
 
 
