@@ -35,4 +35,4 @@
 
 ------------
 
- Copyright &copy; 2018 - Present, Alvajoy123
+ Copyright &copy; 2018 - Present, ***Alvajoy123***
