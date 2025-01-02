@@ -1,8 +1,8 @@
-# Xenon ![](https://img.shields.io/github/release/Overload02/Xenon) ![](https://img.shields.io/github/issues/Overload02/Xenon)
-
 ![](https://i.imgur.com/EpBZxrG.png)
 
-> *Xenon is a feature-packed graphical shell for the TI-84 Plus CE / TI-83 Premium CE calculators.*
+# Xenon ![](https://img.shields.io/github/release/Overload02/Xenon) ![](https://img.shields.io/github/issues/Overload02/Xenon)
+
+*Xenon is a open-sourced feature-packed graphical shell for the TI-84 Plus CE / TI-83 Premium CE calculators.*
 
 ## Features
 
@@ -33,4 +33,12 @@
 
 ------------
 
- Copyright &copy; 2018 - Present, ***Alvajoy Asante***
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const yearSpan = document.getElementById('current-year');
+    yearSpan.textContent = new Date().getFullYear();
+  });
+</script>
+
+
+ Copyright &copy; 2020 - <span id="current-year"></span>,   ***Alvajoy Asante***  
