@@ -33,12 +33,4 @@
 
 ------------
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const yearSpan = document.getElementById('current-year');
-    yearSpan.textContent = new Date().getFullYear();
-  });
-</script>
-
-
- Copyright &copy; 2020 - <span id="current-year"></span>,   ***Alvajoy Asante***  
+ Copyright &copy; 2020 - 2025,   ***Alvajoy Asante***  
