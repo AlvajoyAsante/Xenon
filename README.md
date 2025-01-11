@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/EpBZxrG.png)
 
-# Xenon ![](https://img.shields.io/github/release/Overload02/Xenon) ![](https://img.shields.io/github/issues/Overload02/Xenon)
+# Xenon
 
 *Xenon is a open-sourced feature-packed graphical shell for the TI-84 Plus CE / TI-83 Premium CE calculators.*
 
